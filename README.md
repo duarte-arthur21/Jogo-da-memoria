@@ -4,6 +4,14 @@ Esse jogo é ótimo para estimular a concentração, a memória e o raciocínio 
 
 O projeto apresenta um jogo da memória construido usando Emojis e JavaScript
 
+<h1 aling= "center">🛠️ Tecnologias utilizadas</h1>
+
+<ul>
+  <li><b> Html:</b> criação do corpo da página</li> 
+  <li><b>CSS:</b> Estilização do cenário e área de gameplay</li>
+  <li><b>JavaScript:</b> programar os movimentação do jogo</li>
+</ul>
+
 <h1 >💡 Habilidades desenvolvidas</h1> 
 <ul>
   <li> Lógica da Programação </li>
