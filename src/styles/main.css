@@ -50,7 +50,6 @@ h2 {
 }
 
 .game {
-    border: 1px solid red;
     width: 430px;
     height: 430px;
     display: flex;
@@ -80,7 +79,6 @@ h2 {
     position: absolute;
     inset: 0;
     background-color: #404040;
-    opacity: 0.85;
     transition: 0.25;
     transform: rotateY(0deg);
     backface-visibility: hidden;
