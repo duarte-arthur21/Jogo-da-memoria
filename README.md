@@ -1,8 +1,8 @@
-Um jogo da memória é uma atividade divertida e educativa que consiste em encontrar pares de cartas iguais. 
-As cartas são dispostas com a face para baixo, e o jogador vira duas por vez, tentando memorizar suas posições para formar os pares corretos. 
-Esse jogo é ótimo para estimular a concentração, a memória e o raciocínio lógico de todas as idades!
+<h1 aling= "center">🎮 Jogo da Memória com Emojis e Java Script</h1>
 
-O projeto apresenta um jogo da memória construido usando Emojis e JavaScript
+<p>Um jogo da memória é uma atividade divertida e educativa que consiste em encontrar pares de cartas iguais.</p>
+<p>As cartas são dispostas com a face para baixo, e o jogador vira duas por vez, tentando memorizar suas posições para formar os pares corretos. </p>
+<p>Esse jogo é ótimo para estimular a concentração, a memória e o raciocínio lógico de todas as idades!</p>
 
 <h1 aling= "center">🛠️ Tecnologias utilizadas</h1>
 
