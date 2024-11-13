@@ -21,5 +21,7 @@
 </ul>
 
 <h1> Site do jogo </h1>
+    <img src="./src/img/screen.png" alt="">
+
 <p> Para quem deseja jogar o jogo Detona Halph está disponivel neste site.</p>
 https://duarte-arthur21.github.io/Jogo-da-memoria/
